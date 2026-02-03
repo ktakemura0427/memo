@@ -98,18 +98,19 @@ permalink: /writing/
 - doiは，修論，卒論は必要ないが，国際会議や論文誌は，それぞれのルールに合わせて．
 
 ```tex
-@inproceedings{Abdrabou2019,
-  author = {Abdrabou, Yasmeen and Mostafa, Mariam and Khamis, Mohamed and Elmougy, Amr},
-  title = {Calibration-Free Text Entry Using Smooth Pursuit Eye Movements},
-  year = {2019},
-  doi = {10.1145/3314111.3319838},
-  booktitle = {Proceedings of the 11th ACM Symposium on Eye Tracking Research \& Applications},
-  articleno = {35}
+@inproceedings{Komori2025,
+author = {Komori, Kouki and Takemura, Kentaro},
+title = {Homography normalization enhanced to enable one-point user calibration for gaze estimation},
+year = {2025},
+doi = {10.1145/3715669.3723132},
+booktitle = {Proceedings of the 2025 Symposium on Eye Tracking Research and Applications},
+articleno = {16},
+numpages = {6},
 }
 ```
 
+
 - ACM系のぺーパー（ETRAなど）は，筆頭著者のlast nameのアルファベット順に引用文献が並べられるのでそのままでOK．
-  - 例: (Hiroe et al. 2018; Nagamatsu et al. 2009; Vidal et al. 2013)
 - 国内学会のもまれにアルファベット順になっているので，`\bibliographystyle{}`を`jplain`->`junsrt`にすると発表順になる．（直すかどうかは適宜確認）
 
 ## 単位について
