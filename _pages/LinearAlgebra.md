@@ -4,6 +4,7 @@ author_profile: true
 title:  "Guidance"
 date:   2026-02-04 23:04:30 +0900
 categories: LinearAlgebra
+
 ---
 <!-- _class: title -->
 <!-- _paginate: false -->
