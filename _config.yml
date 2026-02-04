@@ -22,7 +22,8 @@ title: Memo
 subtitle: "@Takemura-lab"
 email: takemura@tokai.ac.jp
 baseurl: "/memo" # the subpath of your site, e.g. /blog
-url: "https://ktakemura0427.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://taemura-lab.org/" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://ktakemura0427.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
