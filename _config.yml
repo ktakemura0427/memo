@@ -25,13 +25,7 @@ baseurl: "/memo" # the subpath of your site, e.g. /blog
 url: "https://ktakemura0427.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 author: 
   name: "Kentaro Takemura"
-  avator: "https://takemura-lab.org/kentaro.webp"
   location: "Kanagawa, Japan"
-  links: 
-    - label: "Takemura-lab"
-      url: "https://takemura-lab.org/"
-    - label: "GitHub"
-      url: "
 
 
 # Build settings
