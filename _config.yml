@@ -72,3 +72,6 @@ author:
       url: "https://takemura-lab.org/"
     - label: "GitHub"
       url: "https://github.com/ktakemura0427"
+
+sidebar:
+  - author_profile
