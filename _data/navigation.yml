@@ -1,7 +1,3 @@
 main:
-  - title: "Home"
-    url: https://takemura-lab.org/
-    target: _blank
   - title: "Posts"
-    url: /year-archive/
-
+    url: /year-archive/  
